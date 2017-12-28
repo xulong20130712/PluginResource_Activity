@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="doi-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample/depend_on_interface/doi-common/build/libs/doi-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

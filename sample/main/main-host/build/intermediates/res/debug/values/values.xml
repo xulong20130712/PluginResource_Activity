@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_about">about</string>
+    <string name="action_settings">Settings090390329042309</string>
+    <string name="app_name">DL-sample-main-host</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="introducation">DL : Apk动态加载框架\n了解更多：https://github.com/singwhatiwanna/dynamic-load-apk</string>
+    <string name="no_plugin">没有发现插件apk，请将插件放在 /sdcard/DynamicLoadHost目录下\n了解更多：https://github.com/singwhatiwanna/dynamic-load-apk</string>
+    <string name="set1">host set1</string>
+    <string name="set2">host set2</string>
+    <string name="set3">host set3</string>
+    <string name="set4">host set4</string>
+    <string name="set5">host set5</string>
+    <string name="set6">host set6</string>
+    <string name="set7">host set7</string>
+    <string name="set8">host set8</string>
+    <!-- From: file:/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

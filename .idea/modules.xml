@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicLoadApk.iml" filepath="$PROJECT_DIR$/DynamicLoadApk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/depend_on_interface/doi-common/doi-common.iml" filepath="$PROJECT_DIR$/sample/depend_on_interface/doi-common/doi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/depend_on_interface/doi-host/doi-host.iml" filepath="$PROJECT_DIR$/sample/depend_on_interface/doi-host/doi-host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/depend_on_interface/doi-plugin/doi-plugin.iml" filepath="$PROJECT_DIR$/sample/depend_on_interface/doi-plugin/doi-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/main/main-host/main-host.iml" filepath="$PROJECT_DIR$/sample/main/main-host/main-host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/main/main-plugin-b/main-plugin-b.iml" filepath="$PROJECT_DIR$/sample/main/main-plugin-b/main-plugin-b.iml" />
+    </modules>
+  </component>
+</project>

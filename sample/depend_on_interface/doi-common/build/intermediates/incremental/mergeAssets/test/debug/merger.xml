@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/depend_on_interface/doi-common/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/depend_on_interface/doi-common/tests/assets"/></dataSet></merger>

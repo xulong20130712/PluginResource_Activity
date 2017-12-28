@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_about"/>
+
+</menu>
+<!-- From: file:/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/depend_on_interface/doi-host/res/menu/main.xml -->

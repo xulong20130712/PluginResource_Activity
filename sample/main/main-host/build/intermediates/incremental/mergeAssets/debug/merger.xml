@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/build/intermediates/exploded-aar/DynamicLoadApk/lib/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/assets"/></dataSet><dataSet config="debug"><source path="/Users/xulong/Downloads/dynamic-load-apk-master/DynamicLoadApk/sample/main/main-host/src/debug/assets"/></dataSet></merger>
